@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_inbox"
+            android:title="Inbox"
+            android:icon="@drawable/ic_inbox"/>
+
+        <item
+            android:id="@+id/menu_starred"
+            android:title="Favoritos"
+            android:icon="@drawable/ic_starred"/>
+
+        <item
+            android:id="@+id/menu_sent"
+            android:title="Emails Enviados"
+            android:icon="@drawable/ic_send_email"/>
+    </group>
+
+    <item
+        android:id="@+id/submenu_outros"
+        android:title="Outros">
+
+        <menu>
+            <item
+                android:id="@+id/menu_trash"
+                android:title="Lixeira"
+                android:icon="@drawable/ic_trash"/>
+
+            <item
+                android:id="@+id/menu_spam"
+                android:title="Spam"
+                android:icon="@drawable/ic_spam"/>
+
+        </menu>
+
+    </item>
+
+</menu>

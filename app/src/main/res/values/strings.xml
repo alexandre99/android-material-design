@@ -17,4 +17,8 @@
     <string name="label_alert_dialog">ALERT DIALOG</string>
     <string name="label_dialog_items">DIALOG ITEMS</string>
     <string name="btn_acessar">ACESSAR</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="menu_locacao">Locação</string>
+    <string name="menu_caminho">Caminho</string>
+    <string name="ssd">2sad13aasdfafd1a32f1a23df1 a f132a1 fad1 3as1d 3a1d3 asd 321ad3 21ad32f1 32asd1f32a1sdf3 21a32dsf13as1df3a1df32a1sdf231ad32f1as32df1a231df2asd1f2asd1</string>
 </resources>
